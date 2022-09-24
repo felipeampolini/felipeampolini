@@ -4,7 +4,6 @@
 
 - 🔭 Trabalho com Desenvolvimento Web
 - 🌱 Atualmente estou aprendendo Desenvolvimento de Jogos
-- ⚡ Fato curioso: Eu tenho um site chamado <a href="https://www.destinogamer.com.br" target="_blank">Destino Gamer</a>
 
 <h2></h2>
 
