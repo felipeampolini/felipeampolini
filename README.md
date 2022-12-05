@@ -4,6 +4,7 @@
 
 - 🔭 Trabalho com Desenvolvimento Web
 - 🌱 Atualmente estou aprendendo Desenvolvimento de Jogos
+- Tenho um site <a href="https://www.akamgaming.com.br" target="_blank">Akam Gaming</a>
 
 <h2></h2>
 
