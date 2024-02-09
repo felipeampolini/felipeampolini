@@ -2,8 +2,8 @@
 
 ### Prazer, me chamo Felipe 👋
 
-- 🔭 Trabalho com Desenvolvimento Web
-- 🌱 Atualmente estou aprendendo Desenvolvimento de Jogos
+- 🔭 Trabalho com Desenvolvimento Web Full stack
+- 🌱 Sou apaixonado pelo mundo dos jogos
 - Tenho um site <a href="https://www.akamgaming.com.br" target="_blank">Akam Gaming</a>
 
 <h2></h2>
